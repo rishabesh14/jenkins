@@ -5,6 +5,6 @@ def check_even_odd(num):
         print("The number is Odd")
 
 
-num = int(input("Enter a number: "))
+num = 10
 
 check_even_odd(num)
